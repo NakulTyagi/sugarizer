@@ -5,11 +5,11 @@
   background-image: url(../lib/sugar-web/graphics/icons/actions/zoom-home.svg);
 }
 #main-toolbar #reset {
-  background-image: url(../icons/reset.jpg);
+  background-image: url(../icons/reset.png);
   border-radius:50% ;
 }
 #main-toolbar #undo {
-  background-image: url(../icons/u.png);
+  background-image: url(../icons/edit-undo.svg);
   border-radius:50% ;
 }
 body{
