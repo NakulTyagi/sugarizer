@@ -1,6 +1,9 @@
 #main-toolbar #activity-button {
   background-image: url(../activity/activity-icon.svg);
 }
+#main-toolbar #network-button {
+  background-image: url(../lib/sugar-web/graphics/icons/actions/zoom-home.svg);
+}
 #main-toolbar #reset {
   background-image: url(../icons/reset.jpg);
   border-radius:50% ;
